@@ -1,0 +1,56 @@
+{
+    "sites": [
+        {
+            "ext": "eyJhcGlLZXkiOiJkMjAyYjVkYi0wZTVlLTQxOGUtOGRlOC00ZjM0ZmQyNjdkZWYiLCJhcGkiOiJodHRwOi8vMTAuMTAuMS42Njo0NTY3In0=",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "я╬оие╝",
+            "viewType": {
+                "style": {
+                    "type": "rect"
+                }
+            },
+            "changeable": 0,
+            "jar": "http://haosiwei.tk:4567/spring.jar",
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "key": "csp_XiaoYa",
+            "searchable": 1
+        },
+        {
+            "ext": "eyJhcGlLZXkiOiJkMjAyYjVkYi0wZTVlLTQxOGUtOGRlOC00ZjM0ZmQyNjdkZWYiLCJhcGkiOiJodHRwOi8vMTAuMTAuMS42Njo0NTY3In0=",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "AList",
+            "viewType": {
+                "style": {
+                    "type": "rect"
+                }
+            },
+            "changeable": 0,
+            "jar": "http://haosiwei.tk:4567/spring.jar",
+            "api": "csp_AList",
+            "type": 3,
+            "key": "csp_AList",
+            "searchable": 1
+        },
+        {
+            "ext": "eyJhcGlLZXkiOiJkMjAyYjVkYi0wZTVlLTQxOGUtOGRlOC00ZjM0ZmQyNjdkZWYiLCJhcGkiOiJodHRwOi8vMTAuMTAuMS42Njo0NTY3In0=",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "BiliBili",
+            "viewType": {
+                "style": {
+                    "type": "rect"
+                }
+            },
+            "changeable": 0,
+            "jar": "http://haosiwei.tk:4567/spring.jar",
+            "api": "csp_BiliBili",
+            "type": 3,
+            "key": "csp_BiliBili",
+            "searchable": 1
+        }
+    ],
+    "rules": []
+}
